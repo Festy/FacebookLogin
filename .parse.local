@@ -1,0 +1,10 @@
+{
+  "applications": {
+    "_default": {
+      "link": "book_login"
+    },
+    "book_login": {
+      "applicationId": "wIcWlleHcStRP7Efwq9CWdunD6snMPgvWTcqvy0K"
+    }
+  }
+}
